@@ -30,7 +30,7 @@ Computer Science.</h3>
 
 <br>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sohan181&show_icons=true&locale=en" alt="sohan181" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sohan181&show_icons=true&locale=en" alt="sohan181" /></p>
 
 <br>
 
