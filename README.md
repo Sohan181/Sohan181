@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sohan</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sohan</h1>
 <h3 align="center">Currently I am pursuing my BTech in 
 Computer Science.</h3>
 <br>
