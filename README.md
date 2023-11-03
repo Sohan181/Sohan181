@@ -3,7 +3,7 @@
 Computer Science.</h3>
 <br>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **JAVA**
 
 
 - 🌍 From <b>Rahata, Maharashtra</b>
