@@ -1,12 +1,11 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="38px">, I'm Sohan</h1>
-<h3 align="center">Currently I am pursuing my BTech in 
-Computer Science.</h3>
+<h3 align="center">Completed B.Tech in Computer Engineering from Sanjivani College of Engineering, Kopargaon</h3>
 <br>
 
-- 🔭 I’m currently working on **JAVA**
+- 🔭 I’m currently working on **JAVA, JDBC, Spring Boot, SQL, AWS**
 
 
-- 🌍 From <b>Rahata, Maharashtra</b>
+- 🌍 From <b>Shirdi, Maharashtra</b>
 
 - 📫 Reach me out at **sohanubale999@gmail.com**
 
